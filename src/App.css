@@ -1,0 +1,57 @@
+.profile-node{
+	line-height: 1em;
+}
+.card-icon{
+	float: left;
+
+}
+
+.card-image{
+	border-radius: 50%;
+	width:80%;
+	height: auto;
+
+}
+.card-face{
+	float: right;
+	text-align: left;
+	width: 60%;
+}
+
+.search-bar{
+	padding:30px;
+	text-align: center;
+}
+
+.search-input{
+	width: 300px;
+	border-style: 1px solid #D5EDE0;
+	border-color: #D5EDE0;
+}
+
+.submit-btn{
+
+}
+input[type="submit" i] {
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: #686868;
+    background-color: #fff;
+    box-sizing: none;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: 1px solid;
+    border-color: #D5EDE0;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
